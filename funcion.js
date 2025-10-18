@@ -6,7 +6,7 @@
 // miFuncion();
 
 // function miSaludo() {
-//     console.log("Hola, desde mi funcion pedorra");
+//     console.log("Hola, desde mi funcion");
 // }
 
 // miSaludo();
